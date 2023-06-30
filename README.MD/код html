@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="stylesheet" href = "css/styles.css">
+    <meta charset="UFT-8">
+    <neta name="viewport"
+        content ="width=device-width, user-scalable=no,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>САЙТ</title>
+</head>
+<body>
+
+<h8 class = 'legend'>legend</h8>
+<h1>111</h1>
+<h2>222</h2>
+<h3>333</h3>
+<h4>444</h4>
+<h5>555</h5>
+<h6>666</h6>
+<span class = 'да'>YES</span>
+
+
+
+
+<p class ='p1'>Sf 1</p>
+<p class = 'p2'>Sf 2</p>
+<p class = 'p3'>Sf 3</p>
+<div>
+<span>nnnn</span>
+</div>
+<div>
+<span>nnnn</span>
+</div>
+<ol>
+    <li>елемент</li>
+    <li>елемент</li>
+    <li>елемент</li>
+</ol>
+<ul>
+    <li>елемент</li>
+    <li>елемент</li>
+    <li>елемент</li>
+
+</ul>
+<img src="https://damion.club/uploads/posts/2022-01/1642331769_63-damion-club-p-foni-v-belom-tsvete-64.jpg" width="500", height="300">
+</body>
+</html>

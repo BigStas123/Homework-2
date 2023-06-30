@@ -1,0 +1,35 @@
+
+.legend {
+	font-size: 21pt ;
+	background: rgb(0, 213, 255) ;
+}
+.p1{
+	color: rgba(0, 255, 229, 0.714);
+	font-size: 32pt;
+	
+}
+.p2{
+	border: 10px solid rgb(255, 102, 0);
+	border-radius: 1px;
+	font-size: 24pt;
+	margin-bottom: 60px;
+	color: rgba(255, 0, 0, 0.551);
+	font-size: 31pt ;
+}
+.p3{
+	font-weight: 900;
+	font-size: 24pt;
+	font-family: Courier New;
+}
+.да {
+	font-family: Courier New;
+	color:rgb(235, 177, 107);
+	font-size: 34pt;
+	font-weight: 900;
+}
+.homework {
+	font-style:italic;
+	font-size: 24px;
+	text-align: center;
+	text-shadow: 1px 1px 2px green;
+}
